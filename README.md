@@ -30,4 +30,7 @@ Welcome to my GitHub profile! I’m a passionate Data Analyst with strong skills
 ---
 
 ## 📁 Featured Projects
-https://github.com/Abodunrin-Gbolahan/Coca_Cola-Excel-Dashboard
+🧾 Coca-Cola USA Retailer Sales Dashboard
+
+The dashboard provides key insights into total sales, unit sold, average price, and operating profit, helping business stakeholders understand brand and retailer performance over time.
+View Project Repository: (https://github.com/Abodunrin-Gbolahan/Coca_Cola-Excel-Dashboard)
