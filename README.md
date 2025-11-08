@@ -15,3 +15,18 @@ Welcome to my GitHub profile! I’m a passionate Data Analyst with strong skills
 📍 *Currently Working On:* Real-world data projects and capstone case studies
 
 🌱 *Learning Mindset:* Continuously exploring new analytical skills and frameworks to tell compelling stories with data .
+
+
+## 🧰 My Toolkit
+
+| Skillset | Tools |
+|----------|-------|
+| Data Analysis | Excel, Power BI, Python (Pandas), SQL |
+| Visualization | Power BI, Matplotlib|
+| Data Cleaning | Excel, Python (Pandas), Power Query |
+| Business Insights | KPI Tracking, Dashboards, Reporting |
+| Others | GitHub, Google Sheets, Canva |
+
+---
+
+## 📁 Featured Projects
